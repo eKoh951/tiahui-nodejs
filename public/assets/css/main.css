@@ -10,7 +10,8 @@ body {
 
 main {
 	height: 100vh;
-	background: radial-gradient(rgb(240, 100, 138, 1), rgba(215, 57, 148, 1));
+	/* background: radial-gradient(rgb(240, 100, 138, 1), rgba(215, 57, 148, 1)); */
+	background: #fff;
 	position: relative;
 }
 
